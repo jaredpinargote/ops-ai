@@ -11,4 +11,4 @@ If you would like to enhance your OPS coaching with AI based on the information/
 
 # Where to start?
 
-If you are completely new to AI, please start here: [[The Basics of AI]] 
+If you are completely new to AI, please start here: [The Basics of AI](basics.md)
