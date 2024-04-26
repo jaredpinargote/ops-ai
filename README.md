@@ -1,3 +1,4 @@
+# AI and OPS
 Some in the Objective Personality System (OPS) community have been fascinated by the potential to use AI to type themselves and others.
 
 I have 5 years of experience in experimenting with new technology as a software engineer, focused primarily on AR/VR. Ever since the release of ChatGPT, I shifted my focus and career to AI.
